@@ -11,7 +11,7 @@ cd void-packages
 
 Clone this repository:
 ```bash
-git clone https://github.com/твой_ник/ananicy-cpp-void-template.git /tmp/ananicy-repo
+git clone https://github.com/prostitutionofthesoul/ananicy-cpp-void-template.git /tmp/ananicy-repo
 cp -r /tmp/ananicy-repo/srcpkgs/ananicy-cpp srcpkgs/
 ```
 
