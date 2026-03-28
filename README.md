@@ -1,4 +1,4 @@
-# ananicy-cpp Void Linux Template
+# Ananicy-cpp Void Linux Template
 
 Rewrite of Ananicy in C++ for lower resource usage. Optimizes process priorities (nice, ionice, sched) for better desktop responsiveness.
 
